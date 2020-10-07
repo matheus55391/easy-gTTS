@@ -7,6 +7,7 @@ import os
 
 def tts_config(text:str, file_name: str="default", set_lang: str = "en"):
     #creates an mp3 file using a string 
+    #return filename.mp3
     file_name = f'{file_name}.mp3'
     file = gTTS(text, lang= set_lang)
     file.save(file_name)
