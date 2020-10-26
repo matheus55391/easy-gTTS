@@ -13,4 +13,4 @@ def easygtts(text:str, file_name: str="default", set_lang: str = "en"):
 
 
 # ---test---
-#tts("Isso é apenas um teste :) ", file_name="bruninhars", set_lang= "pt")
+#easygtts("Isso é apenas um teste :) ", file_name="bruninhars", set_lang= "pt")
