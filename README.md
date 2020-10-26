@@ -1,3 +1,3 @@
-# tts-easy
-Converts text to an .mp3 file.
+## Easy gTTS
 
+#A pre-configured version of google's gTTS library.
