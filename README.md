@@ -1,6 +1,6 @@
 #                  Easy gTTS
 
-### A pre-configured version of google's gTTS library.
+### A simple module made to simplify the use of the gtts library
 
 easygtts(text:str, 
          file_name: str="default", 
