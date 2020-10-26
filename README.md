@@ -1,3 +1,3 @@
 # tts-easy
-convert string to mp3 file
+Converts text to an .mp3 file.
 
